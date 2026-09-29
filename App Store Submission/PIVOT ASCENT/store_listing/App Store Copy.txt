@@ -1,0 +1,41 @@
+PIVOT ASCENT
+Decent Games
+
+NAME
+PIVOT ASCENT
+
+SUBTITLE
+Swing. Pivot. Reach the summit.
+
+PROMOTIONAL TEXT
+A precision ascent built around timing, momentum, and one more perfect swing.
+
+PRIMARY CATEGORY
+Games > Puzzle
+
+SECONDARY CATEGORY
+Games > Casual
+
+KEYWORDS
+pivot,ascent,swing,physics,puzzle,climbing,arcade,momentum,neon,summit
+
+DESCRIPTION
+PIVOT ASCENT is a focused physics puzzle about turning momentum into altitude. Tap to swing between glowing anchors, thread through hazards, collect gems, and keep climbing toward the summit.
+
+Master short, satisfying runs across 20 handcrafted levels, then return for a fresh Daily Challenge. Every move is simple. Every ascent demands precision.
+
+FEATURES
+• Tap-to-swing momentum gameplay
+• 20 handcrafted precision climbs
+• Gems to collect on every route
+• A new Daily Challenge each day
+• Clean neon visuals and responsive audio
+• Play at your own pace
+
+COPYRIGHT
+2026 Decent Games
+
+OWNER-SUPPLIED FIELDS
+Support URL: [REPLACE WITH PUBLIC DECENT GAMES SUPPORT URL]
+Marketing URL: [OPTIONAL - REPLACE IF AVAILABLE]
+Privacy Policy URL: [REPLACE WITH PUBLIC HTTPS PRIVACY POLICY URL]

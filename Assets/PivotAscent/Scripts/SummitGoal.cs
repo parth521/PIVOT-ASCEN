@@ -1,0 +1,2 @@
+using UnityEngine;
+namespace PivotAscent { [RequireComponent(typeof(Collider2D))] public sealed class SummitGoal : MonoBehaviour { public PivotLevel level; Collider2D zone; void Awake() { zone = GetComponent<Collider2D>(); } void Update() { if (level == null || zone == null) return; foreach (var node in FindObjectsByType<PivotNode>(FindObjectsSortMode.None)) if (zone.OverlapPoint(node.transform.position)) { level.Complete(); return; } } void OnTriggerEnter2D(Collider2D other) { if (other.GetComponent<PivotNode>() != null) level.Complete(); } } }

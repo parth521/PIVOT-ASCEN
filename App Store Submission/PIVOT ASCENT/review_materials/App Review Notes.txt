@@ -1,0 +1,23 @@
+PIVOT ASCENT - APP REVIEW NOTES
+
+PIVOT ASCENT is a portrait puzzle game from Decent Games. The player taps to swing between pivot nodes, collects gems, avoids hazards, and reaches the summit.
+
+How to review
+1. Open the app and choose PLAY.
+2. Select any unlocked level. Progression starts at Level 1.
+3. Tap the screen to control the swing and reach the green summit marker.
+4. Return to the home screen to try DAILY CHALLENGE.
+
+Account and access
+No sign-in, account, subscription, purchase, or special hardware is required.
+
+Network behavior
+The game is designed to remain playable without a network connection. Confirm the final build behavior after any third-party SDKs are added.
+
+Review contact
+Name: [REPLACE]
+Email: [REPLACE]
+Phone: [REPLACE]
+
+Release notes for version 1.0.0
+Initial release of PIVOT ASCENT.

@@ -1,0 +1,22 @@
+PIVOT ASCENT PRIVACY POLICY
+Effective date: [REPLACE]
+
+Decent Games respects your privacy. PIVOT ASCENT is designed to be played without creating an account.
+
+Data collection
+The current version of PIVOT ASCENT does not collect, transmit, sell, or share personal data. Game progress and preferences may be stored locally on your device to support gameplay.
+
+Third-party services
+The current version does not include advertising, analytics, or other third-party services that collect data. If Decent Games adds such a service in a future version, this policy and the App Store privacy disclosure will be updated before release.
+
+Children
+PIVOT ASCENT does not knowingly collect personal information from children.
+
+Changes
+If this policy changes, Decent Games will post the updated policy at this page and update its effective date.
+
+Contact
+For privacy questions, contact: [REPLACE WITH DECENT GAMES SUPPORT EMAIL]
+
+PUBLISHING INSTRUCTION
+Publish this text at a stable public HTTPS web address owned or controlled by Decent Games. Paste that address into App Store Connect as the Privacy Policy URL. Have a qualified legal reviewer confirm the final policy if the released app has analytics, advertising, accounts, online services, or other data practices.

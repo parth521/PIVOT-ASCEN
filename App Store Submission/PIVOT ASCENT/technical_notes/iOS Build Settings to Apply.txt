@@ -1,0 +1,21 @@
+PIVOT ASCENT - iOS BUILD SETTINGS TO APPLY
+
+Current project identity detected
+Company name: Decent Games
+Product name: PIVOT ASCENT
+Current version: 0.1.0
+Current iPhone bundle identifier: com.UnityTechnologies.com.unity.template.urp-blank
+
+Required before archive
+1. Set Bundle Identifier to a unique Decent Games identifier. Suggested format: com.decentgames.pivotascent. Confirm availability in Apple Developer before using it.
+2. Set version to 1.0.0 and iOS build number to 1.
+3. Import ../app_icon_1024.png as the iOS App Store icon. Do not add rounded corners or transparency.
+4. Build the project for iOS, archive in Xcode, validate, and upload to App Store Connect.
+5. Raise only the build number for each replacement upload of the same version.
+6. Test the exact uploaded build on a current iPhone through TestFlight.
+
+Release checks
+- Portrait UI does not overlap the notch, Dynamic Island, home indicator, or safe area.
+- Audio, gameplay, restart, level progression, daily challenge, and background/foreground recovery work.
+- The release contains no development UI, test menus, placeholder identifier, or unintended permissions.
+- Any third-party SDK added before release has a current valid privacy manifest if Apple requires one, and its data practices are included in App Privacy.
