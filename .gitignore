@@ -1,0 +1,57 @@
+# ==========================================
+# Unity Auto-Generated & Temporary Folders
+# ==========================================
+/[L|l]ibrary/
+/[T|t]emp/
+/[O|o]bj/
+/[B|b]uild/
+/[B|b]uilds/
+/[L|l]ogs/
+/[U|u]ser[S|s]ettings/
+/[M|m]emoryCaptures/
+/[R|r]ecordings/
+
+# Asset store packages & local packages cache
+/[A|a]ssets/AssetStoreTools*
+/[P|p]ackages/packages-lock.json
+
+# ==========================================
+# Visual Studio / Visual Studio Code / Rider
+# ==========================================
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Unity timing / performance traces
+*.m4a
+*.trace
+
+# ==========================================
+# OS Generated Files
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==========================================
+# Builds & Executables
+# ==========================================
+*.apk
+*.aab
+*.unitypackage
+*.app
